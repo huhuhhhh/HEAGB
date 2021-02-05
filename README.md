@@ -7,7 +7,7 @@ C. Hu and J. Luo, Decoding the Grain Boundary Thermodynamics in High-Entropy All
 
 The current repository demonstrates the use of DBAM and ANN models for predicting GB properties for CrMnFeCoNi HEAs.
 
-&Table of Content:
+$Table of Content:
 
 * ANN_binary: trained artificial neural network (ANN) models and matlab scripts for constructing binary GB diagrams of:
             1. Co-Cr, 2. Co-Fe, 3. Co-Mn, 4. Co-Ni, 5. Fe-Cr, 6. Fe-Mn, 7. Mn-Cr, 8. Ni-Cr, 9. Ni-Fe, 10. Ni-Mn
