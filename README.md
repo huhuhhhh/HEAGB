@@ -24,3 +24,5 @@ Ni: DBAM script for fitting DBAM data for Ni segregation and matlab script for t
 Co: DBAM script for fitting DBAM data for Co segregation and matlab script for training ANN models
 
 Disorder: DBAM script for fitting DBAM data for GB excess of disordering and matlab script for training ANN models
+
+Matlab Installation: Deep Learning Toolbox is needed to train ANN models 
