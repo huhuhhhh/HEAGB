@@ -3,7 +3,7 @@ Data based analytical model (DBAM) and machine learning for HEA GBs
 
 This repository contains the data and code for our recent work:
 
-C. Hu and J. Luo, Decoding the Grain Boundary Thermodynamics in High-Entropy Alloys: A Data-Based Analytical Model beyond Machine Learning, https://arxiv.org/abs/2012.12865
+C. Hu and J. Luo, Data-driven prediction of grain boundary segregation and disordering in high-entropy alloys in a 5D space, Mater. Horiz., 2022,9, 1023-1035. DOI: https://doi.org/10.1039/D1MH01204E
 
 The current repository demonstrates the use of DBAM and ANN models for predicting GB properties for CrMnFeCoNi HEAs.
 
